@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 8"
-author: "Brett Hickman"
+author: "Kyle, Abdul, Tiffany, Brett, Xian"
 date: "5/18/2021"
 output: html_document
 ---
